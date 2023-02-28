@@ -4,4 +4,4 @@
 ### 💻 Projects 
 - [Get home safe](https://github.com/Rosevandergiessen/get-home-safe) - Ruby on Rails mobile app with geolocation and chatroom. 
 - [E-commerce](https://github.com/Rosevandergiessen/react-ecommerce) - E-commerce website built with React - *in progress*
-- [Nasa Project](https://github.com/Rosevandergiessen/node-nasa-project) - Nasa Launch planner built with Node.js. 
+- [Nasa Project](https://github.com/Rosevandergiessen/node-nasa-project) - Nasa Launch planner built with Node.js - *in progress* 
